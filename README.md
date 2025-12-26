@@ -19,5 +19,5 @@ Currently learning Python, SQL, Git and basic Machine Learning to move into soft
 
 ## How to reach me
 
-- Email: sXXXXX@gmail.com
+- Email: suhailalamit@gmail.com
 - LinkedIn: https://www.linkedin.com/in/suhailalamind
